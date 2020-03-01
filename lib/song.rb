@@ -21,6 +21,6 @@ class Song
   end
 end
 
-eatit = Song.new("Eat It")
+#eatit = Song.new("Eat It")
 
-puts "something"
+#puts "something"
