@@ -12,6 +12,9 @@ class Post
   end
 
   def author_name
-    author.name if author
+    #author.name if author
+    if author then
+      author.name
+    end
   end
-end 
+end
