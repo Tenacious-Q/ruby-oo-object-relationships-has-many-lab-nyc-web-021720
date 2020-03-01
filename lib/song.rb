@@ -19,5 +19,5 @@ class Song
 end
 
 eatit = Song.new("Eat It")
-binding.pry
+
 puts "something"
