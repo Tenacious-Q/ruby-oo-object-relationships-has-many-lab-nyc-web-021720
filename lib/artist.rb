@@ -1,4 +1,4 @@
-class Artist 
+class Artist
   initialize(name)
-  @name = name 
+  @name = name
 end 
